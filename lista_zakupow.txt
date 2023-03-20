@@ -1,3 +1,4 @@
 chleb	3.5
 jajka	8.0
 maslo	5.5
+szynka	40.0
